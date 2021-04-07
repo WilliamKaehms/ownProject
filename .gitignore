@@ -1,0 +1,6 @@
+src/hallowelt
+# ignore emacs backup files
+*~
+
+# ignore object files
+*.o
