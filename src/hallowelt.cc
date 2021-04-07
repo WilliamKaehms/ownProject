@@ -1,17 +1,12 @@
 #include<iostream>
-<<<<<<< HEAD
+#include<string>
+
 using namespace std;
 
 int main(int argc, char** argv){
-	cout<< "Hallo Welt" << endl;
-=======
-#include<string>
-
-int main(){
 	enum languages {german, english, french};
-	std::string greetings[3] = {"Hallo Welt!","Hello world!","Salut monde!"};
+	string greetings[3] = {"Hallo Welt!","Hello world!","Salut monde!"};
 	languages lang = french;
-	std::cout << greetings[lang] << std::endl;
->>>>>>> languages
+	cout << greetings[lang] << endl;
 	return 0;
 }
