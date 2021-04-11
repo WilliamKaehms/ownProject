@@ -12,6 +12,6 @@ int main(int argc, char** argv){
 }
 ```
 
-![An owl](https://www.connexionfrance.com/var/connexion/storage/images/_aliases/social_network_image/media/images/eurasian_eagle-owl_-44088/1151405-1-eng-GB/Eurasian_eagle-owl_-44088.jpg)
+![An owl](https://www.cotswold-falconry.co.uk/images/our-birds/owls/turkmenian-eagle-owl.jpg)
 
 $x = frac{a}{b}$
