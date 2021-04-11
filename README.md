@@ -14,4 +14,4 @@ int main(int argc, char** argv){
 
 ![An owl](https://www.cotswold-falconry.co.uk/images/our-birds/owls/turkmenian-eagle-owl.jpg)
 
-$x = frac{a}{b}$
+$$ RMSE = {\sqrt{\sum_{i=1}^n(y_i - \hat y_i)^2 \over n}} $$
