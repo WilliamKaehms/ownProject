@@ -8,5 +8,6 @@ int main(int argc, char** argv){
 	string greetings[3] = {"Hallo Welt!","Hello world!","Salut monde!"};
 	languages lang = french;
 	cout << greetings[lang] << endl;
+	cout << "Hello!" << endl;
 	return 0;
 }
